@@ -1,7 +1,7 @@
 # Build Deep Learning Model for Flooming Service
 ## Models: Pix2Pix, Style Transfer, MobileNetV3, ShuffleNetV2
  
-### download a our application  
+### download our application  
 - [app store](https://apps.apple.com/lk/app/flooming/id1642471118)
 - [play store](https://play.google.com/store/apps/details?id=com.flooming.flooming)
  
