@@ -1,19 +1,23 @@
-# Build Deep Learning Model for Flooming Project
+# Build Deep Learning Model for Flooming Service
 ## Models: Pix2Pix, Style Transfer, MobileNetV3, ShuffleNetV2
-  
+ 
+### download a our application  
+- [app store](https://apps.apple.com/lk/app/flooming/id1642471118)
+- [play store](https://play.google.com/store/apps/details?id=com.flooming.flooming)
+ 
 ### First goal: Classify the class of flower
-### Second goal: Convert flower image to picture
+### Second goal: Convert a real image into picture
 
-### [example 1 in our flower dataset](https://github.com/project-flooming/Flooming-DeepLearning/blob/main/figure/figure4.JPG)
+- [example 1 in our flower dataset](https://github.com/project-flooming/Flooming-DeepLearning/blob/main/figure/figure4.JPG)
 <img src = "https://github.com/project-flooming/Floming-deeplearning/blob/main/figure/figure4.JPG?raw=true">
 
-### [example 2 in our flower dataset](https://github.com/project-flooming/Flooming-DeepLearning/blob/main/figure/figure5.JPG)
+- [example 2 in our flower dataset](https://github.com/project-flooming/Flooming-DeepLearning/blob/main/figure/figure5.JPG)
 <img src = "https://github.com/project-flooming/Floming-deeplearning/blob/main/figure/figure5.JPG?raw=true">
 
-### [example 3 in pix2pix paper](https://github.com/project-flooming/Flooming-DeepLearning/blob/main/figure/figure1.JPG)  
+- [example 3 in pix2pix paper](https://github.com/project-flooming/Flooming-DeepLearning/blob/main/figure/figure1.JPG)  
 <img src = "https://github.com/project-flooming/Floming-deeplearning/blob/main/figure/figure1.JPG?raw=true">
 
-### [example 4 in style transfer paper](https://github.com/project-flooming/Flooming-DeepLearning/blob/main/figure/figure2.JPG)
+- [example 4 in style transfer paper](https://github.com/project-flooming/Flooming-DeepLearning/blob/main/figure/figure2.JPG)
 <img src = "https://github.com/project-flooming/Floming-deeplearning/blob/main/figure/figure2.JPG?raw=true">
 
 
